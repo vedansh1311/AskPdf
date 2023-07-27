@@ -1,3 +1,8 @@
+# AskPdf
+An AI chatbot to get on which if a pdf is uploaded can answer any question related to the contents.  Used GPT as a large language model.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
